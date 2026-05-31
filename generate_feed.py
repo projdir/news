@@ -7,7 +7,7 @@ BASE_URL = "https://archive.rthk.hk/mp3/radio/archive/radio1/hktoday/m4a/"  # re
 IMAGE_URL = "https://podcast.rthk.hk/podcast/upload_photo/item_photo/1400x1400_916.jpg"
 FEED_TITLE = "晨早新聞天地"
 FEED_LINK = BASE_URL
-FEED_DESCRIPTION = "Daily morning programme episodes"
+FEED_DESCRIPTION = "新聞天地"
 OUTPUT_FILE = "feed.xml"
 
 def generate_feed():
